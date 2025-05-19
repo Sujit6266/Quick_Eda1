@@ -2,4 +2,4 @@ streamlit
 sweetviz
 pandas
 setuptools
-numpy
+numpy==1.23.5
